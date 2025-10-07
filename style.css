@@ -8,9 +8,11 @@ html, body{
     padding: 0px;
 }
 
+
+
 .main-div{
 height: 800px;
-background-color: blue;
+background-color: #004494;
 display:flex;
 justify-content: center;
 }
@@ -50,4 +52,14 @@ justify-content: center;
     margin-top: 30px;
     /* il margin top serve per dare un po' di spazio */
 
+}
+
+.second-child-fat-g1-soggetto1{
+    display: flex;
+    margin-top: 25px;
+}
+
+.color{
+    color: white;
+    text-decoration: none;
 }
