@@ -63,3 +63,7 @@ justify-content: center;
     color: white;
     text-decoration: none;
 }
+
+.second-child-short-g2-cl-color{
+    flex-direction: column;
+}
